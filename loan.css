@@ -1,0 +1,17 @@
+.hide{
+
+    display: none;
+}
+.calculate{
+    margin-top: 10px;
+}
+.result{
+    margin-bottom: 15px;
+}
+
+div[id="choose"]{
+    margin-left: 20%;
+    margin-right: 20%;
+    min-width: 600;
+
+}
